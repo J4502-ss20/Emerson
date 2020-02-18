@@ -1,1 +1,43 @@
+body{
+  background-color: #E5F4E3
+}
 
+ul{
+  overflow: hidden;
+  background-color: #F05D5E
+}
+
+
+.title{
+  text-align:
+  center;
+}
+
+  .song{
+    text-align: left; text-align: center;
+  }
+
+  h1 {
+    font-family: 'Courier Prime', monospace;
+    color: #F05D5E;
+  }
+
+img {
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
+  border-style: none;
+ }
+ li{
+   text-align: center;
+ }
+p{
+  font-family: 'Roboto', sans-serif;
+}
+
+li{list-style: none}
+
+a:link{
+  font-family: 'Ultra', serif;
+  text-decoration: none;
+}
