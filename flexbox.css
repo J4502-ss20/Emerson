@@ -15,13 +15,3 @@
 		align-items:center;
 	}
 }
-
-@media (min-width: 800px) {
-
-	.item-1 {
-		margin: auto;
-	}
-	.item-2 {
-		margin: auto;
-	}
-}
